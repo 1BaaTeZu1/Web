@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Front_End_Tasarim", "Front_End_Tasarim\Front_End_Tasarim.csproj", "{A6ED11A0-91DE-4820-A4E5-7F8E2DB07D4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6ED11A0-91DE-4820-A4E5-7F8E2DB07D4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6ED11A0-91DE-4820-A4E5-7F8E2DB07D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6ED11A0-91DE-4820-A4E5-7F8E2DB07D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6ED11A0-91DE-4820-A4E5-7F8E2DB07D4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCB61169-03CF-470F-93FF-A58ABE34E43E}
+	EndGlobalSection
+EndGlobal
